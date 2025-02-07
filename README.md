@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dilshad Ali</h1>
+<h1 align="center">Hi, I am Dilshad Ali welcome to my Github</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshadali-13&label=Profile%20views&color=0e75b6&style=flat" alt="dilshadali-13" /> </p>
